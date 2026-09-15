@@ -1,2 +1,7 @@
-# RIfki
+# Tugas OOP
 
+# NAMA: RIFKI NAUFAL ARIA
+
+# KELAS : TI 3B
+
+# NIM :251101078
